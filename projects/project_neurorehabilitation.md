@@ -44,5 +44,5 @@ We designed a **playful rehabilitation interface** combining:
 This system integrates Neurologic Music Therapy with interactive gaming, offering a motivating alternative to traditional rehabilitation.
 
 Published in:
-- **Journal of NeuroEngineering and Rehabilitation (2025)**
-
+- **Journal of NeuroEngineering and Rehabilitation (2024):** Integration of music-based game approaches with wearable devices for hand neurorehabilitation: a narrative review
+- **Journal of NeuroEngineering and Rehabilitation (2025):** Evaluation of wrist and finger function in healthy children through music-based video game therapy
