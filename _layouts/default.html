@@ -9,13 +9,28 @@
 <body>
 
   <!-- Navigation bar -->
-  <nav style="padding: 15px; background: #111; color: white;">
+<nav style="
+  padding: 15px 30px;
+  background: #0d1117;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: sans-serif;
+">
+  <div style="font-weight: 600; font-size: 18px;">
+    {{ site.title }}
+  </div>
+
+  <div>
     {% for item in site.nav %}
-      <a href="{{ item.link }}" style="margin-right: 20px; color: white; text-decoration: none;">
+      <a href="{{ item.link }}" 
+         style="margin-left: 25px; color: #c9d1d9; text-decoration: none; font-size: 15px;">
         {{ item.name }}
       </a>
     {% endfor %}
-  </nav>
+  </div>
+</nav>
 
   <!-- Page content -->
   <main style="padding: 20px;">
