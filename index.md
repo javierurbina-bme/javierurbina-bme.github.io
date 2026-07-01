@@ -34,5 +34,5 @@ Download my CV:
 Feel free to reach out for collaborations, internships, or industry opportunities.
 
 **Email:** javier.urbina@tum.de  
-**LinkedIn:** https://www.linkedin.com/in/javier-urbina-alarc\%C3\%B3n-931132191/ 
+**LinkedIn:** www.linkedin.com/in/javier-urbina-alarcón-931132191
 **Google Scholar Profile:** https://scholar.google.com/citations?user=VELiVzoAAAAJ\&hl=es\&oi=ao
