@@ -1,3 +1,7 @@
+---
+layout: default
+title: About
+---
 I am Javier Urbina Alarcón, a Biomedical Engineering and Medical Physics M.Sc. student at the Technical University of Munich (TUM). My academic and professional path spans medical imaging, biomedical signal processing, medical device development, and translational research aimed at improving clinical diagnostics and patient care.
 
 I currently work at the Klinikum rechts der Isar (TUM) in Diagnostic and Interventional Neuroradiology, where I support clinical workflows and gain hands-on experience with MRI, angiography, and advanced imaging procedures. This role has strengthened my understanding of clinical environments, imaging protocols, and multidisciplinary collaboration.
