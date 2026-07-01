@@ -19,18 +19,51 @@ I am passionate about applying engineering principles to solve medical challenge
 - Machine learning for healthcare
 - Clinical technology and innovation
 
-👉 [About Me](/about)
+<a href="/about" 
+   style="
+     display:inline-block;
+     padding:10px 18px;
+     background:#238636;
+     color:white;
+     border-radius:6px;
+     text-decoration:none;
+     margin-top:10px;
+   ">
+  View About
+</a>
 
 ---
 
 ## Projects
 Explore detailed descriptions of my engineering and research projects.
 
-👉 [Projects](/projects)
+<a href="/projects" 
+   style="
+     display:inline-block;
+     padding:10px 18px;
+     background:#238636;
+     color:white;
+     border-radius:6px;
+     text-decoration:none;
+     margin-top:10px;
+   ">
+  View Projects
+</a>
 
 ---
 
 ## Curriculum Vitae
 Download my full CV.
 
-👉 [CV](/cv.pdf)
+<a href="/CV" 
+   style="
+     display:inline-block;
+     padding:10px 18px;
+     background:#238636;
+     color:white;
+     border-radius:6px;
+     text-decoration:none;
+     margin-top:10px;
+   ">
+  View CV
+</a>
