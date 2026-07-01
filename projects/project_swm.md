@@ -40,6 +40,6 @@ This study is the **first to analyze SWM across the full human lifespan** using 
 This project improves understanding of SWM development and aging, with implications for neurological disorders such as autism, dementia, epilepsy, and multiple sclerosis.
 
 Presented at:
-- **International Society of Tractography Conference (2025)**  
-- **ISMRM (2026)**
+- **International Society of Tractography Conference (2025):** High-resolution tractography shows later maturation of superficial white matter across the lifespan  
+- **ISMRM (2026):** High‐resolution diffusion tractography shows altered superficial white matter in multiple sclerosis across the lifespan
 
