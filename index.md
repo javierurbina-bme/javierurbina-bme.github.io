@@ -1,39 +1,36 @@
-### M.Sc. Student in Biomedical Engineering and Medical Physics @ TUM
+---
+layout: default
+title: Home
+---
 
-Welcome to my professional portfolio. Here you will find my projects, experience, and work in biomedical engineering.
+### M.Sc. Student in Biomedical Engineering and Medical Physics
+### Technical University of Munich (TUM)
 
-## 🔬 About Me
-I am passionate about applying engineering principles to solve medical challenges. My interests include:
+Welcome to my professional portfolio. Here you can explore my projects, experience, and research work in biomedical engineering.
+
+---
+
+## About Me
+I am passionate about applying engineering principles to solve medical challenges. My work spans:
 
 - Medical imaging (MRI, CT, ultrasound)
 - Biomedical signal processing
 - Medical device development
-- Machine learning for healthcare applications
+- Machine learning for healthcare
 - Clinical technology and innovation
 
-You can learn more about my background here:  
-👉 [About Me](about.md)
+👉 [About Me](/about)
 
 ---
 
-## 🧪 Projects
-Explore detailed descriptions of my engineering projects:
+## Projects
+Explore detailed descriptions of my engineering and research projects.
 
-👉 [Projects](projects.md)
-
----
-
-## 📄 Curriculum Vitae
-Download my CV:  
-👉 [CV](cv.pdf)
+👉 [Projects](/projects)
 
 ---
 
-## 📬 Contact
-Feel free to reach out for collaborations, internships, or industry opportunities.
+## Curriculum Vitae
+Download my full CV.
 
-**Email:** javier.urbina@tum.de  
-
-**LinkedIn:** www.linkedin.com/in/javier-urbina-alarcón-931132191
-
-**Google Scholar Profile:** https://scholar.google.com/citations?user=VELiVzoAAAAJ\&hl=es\&oi=ao
+👉 [CV](/cv.pdf)
