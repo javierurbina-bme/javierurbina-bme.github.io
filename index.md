@@ -1,5 +1,5 @@
 # Javier Urbina-Alarcon
-### Biomedical Engineering @ TUM
+### M.Sc. Student in Biomedical Engineering and Medical Physics @ TUM
 
 Welcome to my professional portfolio. Here you will find my projects, experience, and work in biomedical engineering.
 
