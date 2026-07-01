@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projects
+---
+
 # Projects
 
 This page summarizes a selection of my academic, clinical, and research projects in biomedical engineering, medical imaging, and neurorehabilitation. Each project includes a dedicated page with detailed methods, figures, and results.
