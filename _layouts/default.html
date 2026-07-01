@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+</head>
+
+<body>
+
+  <!-- Navigation bar -->
+  <nav style="padding: 15px; background: #111; color: white;">
+    {% for item in site.nav %}
+      <a href="{{ item.link }}" style="margin-right: 20px; color: white; text-decoration: none;">
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </nav>
+
+  <!-- Page content -->
+  <main style="padding: 20px;">
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer style="padding: 20px; text-align: center; color: #666;">
+    © 2026 Javier Urbina — Biomedical Engineering Portfolio
+  </footer>
+
+</body>
+</html>
