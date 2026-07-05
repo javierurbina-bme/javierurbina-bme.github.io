@@ -6,7 +6,7 @@ title: Home
 <div style="display:flex; align-items:center; gap:30px; margin-bottom:40px;">
 
   <!-- Profile photo -->
-  <img src="/assets/profile.jpg" alt="Javier Urbina" 
+  <img src="/assets/profile.jpeg" alt="Javier Urbina" 
        style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
 
   <div>
