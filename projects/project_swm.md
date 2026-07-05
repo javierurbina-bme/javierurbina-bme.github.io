@@ -51,9 +51,9 @@ This study is the **first to analyze SWM across the full human lifespan** using 
   </div>
 
   <!-- Image 2 -->
-  <div style="text-align:center; width:30%; min-width:250px;">
+  <div style="text-align:center; width:100%; margin-bottom:25px;">
     <img src="/assets/flowdiagram.png" 
-         style="width:100%; border-radius:10px;">
+         style="width:90%; max-width:900px; border-radius:10px;">
     <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
       Workflow for the SWM tractography pipeline
     </p>
