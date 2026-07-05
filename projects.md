@@ -22,9 +22,9 @@ Key contributions include:
 - Lifespan FA/MD curves showing delayed maturation of SWM relative to deep white matter  
 
 This work was presented at the **International Society of Tractography Conference (2025)** and **ISMRM (2026)**.
-
+<div>
 👉 [Read full project](/projects/project_swm)
-
+<div>
 ---
 
 ## 2. Music-Based Video Game Therapy for Hand Rehabilitation in Children with Cerebral Palsy  
@@ -44,9 +44,9 @@ Pilot study (n=10 healthy children, 8–12 years):
 - Positive user experience (relaxing, engaging)
 
 Published in **Journal of NeuroEngineering and Rehabilitation (2025)**.
-
+<div>
 👉 [Read full project](/projects/project_neurorehabilitation)
-
+<div>
 ---
 
 ## 3. Nonlinear Ultrasound Parameter Estimation Using the Extended Comparative Method (ECM)  
@@ -65,5 +65,6 @@ Applications:
 - Tissue characterization (e.g., fatty liver disease)  
 - Harmonic imaging enhancement  
 - Nonlinear propagation modeling
-
+<div>
 👉 [Read full project](/projects/project_ultrasound)
+<div>
