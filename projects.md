@@ -23,7 +23,7 @@ Key contributions include:
 
 This work was presented at the **International Society of Tractography Conference (2025)** and **ISMRM (2026)**.
 
-👉 [Read full project](project_swm.md)
+👉 [Read full project](/projects/project_swm.md)
 
 ---
 
@@ -45,7 +45,7 @@ Pilot study (n=10 healthy children, 8–12 years):
 
 Published in **Journal of NeuroEngineering and Rehabilitation (2025)**.
 
-👉 [Read full project](project_music_therapy.md)
+👉 [Read full project](/projects/project_music_therapy.md)
 
 ---
 
@@ -65,3 +65,5 @@ Applications:
 - Tissue characterization (e.g., fatty liver disease)  
 - Harmonic imaging enhancement  
 - Nonlinear propagation modeling
+
+👉 [Read full project](/projects/project_ultrasound)
