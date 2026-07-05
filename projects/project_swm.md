@@ -1,3 +1,9 @@
+---
+layout: default
+title: swm
+---
+
+
 # High-Resolution Tractography of Superficial White Matter Across the Lifespan
 
 This project was part of my research internship at the Peter S. Allen MRI Research Centre (University of Alberta).  
