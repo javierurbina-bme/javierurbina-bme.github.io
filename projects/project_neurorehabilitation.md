@@ -1,3 +1,8 @@
+---
+layout: default
+title: Neurorehab
+---
+
 # Music-Based Video Game Therapy for Hand Rehabilitation
 
 This project was developed at the Biomechanics and Applied Robotics Laboratory (PUCP).  
