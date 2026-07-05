@@ -7,7 +7,7 @@ title: Home
 
   <!-- Profile photo -->
   <img src="/assets/profile.jpeg" alt="Javier Urbina" 
-       style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
+       style="width:100px; height:100px; border-radius:50%; object-fit:cover;">
 
   <div>
     <h1 style="margin-bottom:10px;">Javier Urbina</h1>
