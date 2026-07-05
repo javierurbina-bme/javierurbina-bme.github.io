@@ -23,7 +23,9 @@ Key contributions include:
 
 This work was presented at the **International Society of Tractography Conference (2025)** and **ISMRM (2026)**.
 
+
 👉 [Read full project](/projects/project_swm)
+
 ---
 
 ## 2. Music-Based Video Game Therapy for Hand Rehabilitation in Children with Cerebral Palsy  
