@@ -45,7 +45,7 @@ Pilot study (n=10 healthy children, 8–12 years):
 
 Published in **Journal of NeuroEngineering and Rehabilitation (2025)**.
 
-👉 [Read full project](/projects/project_music_therapy)
+👉 [Read full project](/projects/project_neurorehabilitation)
 
 ---
 
