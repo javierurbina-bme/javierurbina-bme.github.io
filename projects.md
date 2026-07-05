@@ -69,3 +69,4 @@ Applications:
 
 👉 [Read full project](/projects/project_ultrasound)
 
+---
