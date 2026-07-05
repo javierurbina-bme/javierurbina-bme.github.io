@@ -1,3 +1,9 @@
+---
+layout: default
+title: US
+---
+
+
 # Nonlinear Ultrasound Parameter Estimation Using the Extended Comparative Method (ECM)
 
 This project was developed at the Medical Imaging Laboratory (PUCP).  
