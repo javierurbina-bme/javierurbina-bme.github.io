@@ -7,7 +7,7 @@ title: Home
 
   <!-- Profile photo -->
   <img src="/assets/linkedin_profile_2026.jpeg" alt="Javier Urbina" 
-       style="width:50px; height:50px; border-radius:50%; object-fit:cover;">
+       style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
 
   <div>
     <h1 style="margin-bottom:10px;">Javier Urbina</h1>
