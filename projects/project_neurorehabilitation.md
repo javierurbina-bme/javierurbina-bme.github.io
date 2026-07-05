@@ -40,6 +40,46 @@ We designed a **playful rehabilitation interface** combining:
 
 ---
 
+## Gallery
+
+<div style="display:flex; flex-wrap:wrap; gap:30px; justify-content:center; margin-top:20px;">
+
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/movimientos.png" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Squirrel game (wrist abduction/adduction), Rocket game (wrist flexion/extension), and Bubble game (finger flat pinch) 
+    </p>
+  </div>
+
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/hardware.png" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Hardware setting
+    </p>
+  </div>
+
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/seq_diagram.png" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Software sequence diagram
+    </p>
+  </div>
+
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/pilot_study.jpg" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Pilot study
+    </p>
+  </div>
+
+</div>
+
+---
+
 ## Tools & Skills
 **Unity (C#)**, **IMU sensors**, **Signal processing**, **MATLAB**, **Game design**, **Human–computer interaction**, **Pediatric rehabilitation**
 
