@@ -37,6 +37,59 @@ This study is the **first to analyze SWM across the full human lifespan** using 
 
 ---
 
+## Gallery
+
+<div style="display:flex; flex-wrap:wrap; gap:30px; justify-content:center; margin-top:20px;">
+
+  <!-- Image 1 -->
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/graph.png" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Lifespan changes in superficial white matter microstructure
+    </p>
+  </div>
+
+  <!-- Image 2 -->
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/flowdiagram.png" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Workflow for the SWM tractography pipeline
+    </p>
+  </div>
+
+  <!-- Image 3 -->
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/parameters.png" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      MRI acquisition parameters used for diffusion imaging
+    </p>
+  </div>
+
+  <!-- Image 4 -->
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/tracto.jpeg" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Axial slice showing superficial white matter tractography
+    </p>
+  </div>
+
+  <!-- Image 5 -->
+  <div style="text-align:center; width:30%; min-width:250px;">
+    <img src="/assets/presentationUofA.jpeg" 
+         style="width:100%; border-radius:10px;">
+    <p style="color:#9fb3c8; font-size:14px; margin-top:8px;">
+      Presenting SWM research at the University of Alberta
+    </p>
+  </div>
+
+</div>
+
+---
+
 ## Tools & Skills
 **MRtrix3**, **DIPY**, **FSL**, **SynthSeg**, **Python**, **Diffusion MRI**, **CSD tractography**, **Neuroimaging pipelines**
 
