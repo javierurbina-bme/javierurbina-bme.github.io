@@ -69,7 +69,7 @@ Explore detailed descriptions of my engineering and research projects.
 
 Download my full CV.
 
-<a href="/CV" 
+<a href="/CV_Javier_Urbina_RD" 
    style="
      display:inline-block;
      padding:10px 18px;
